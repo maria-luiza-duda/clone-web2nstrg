@@ -1,0 +1,72 @@
+.barra-inicial {
+    height: 70px;
+    width: 430px;
+    background-color: #f5f3f3;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.logo {
+    height: 50px;
+    width: 140px;
+    margin-left: 160px;
+    margin-top: 10px;
+}
+
+.inicio {
+    position: relative;
+    height: 25px;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+
+.infos-usuario{
+    margin: 10px;
+}
+
+.foto-perfil{
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+
+}
+
+h3 {
+    margin-left: 80px;
+    margin-top: -40px;
+}
+
+/*.opcoes {
+    position: relative;
+    height: 20px;
+    margin-left: 420px;
+    margin-top: -20px;
+}*/
+
+.post {
+    width: 113%;
+}
+
+.acoes-post img {
+    height: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.infos-post {
+    margin-left: 10px;
+}
+
+.menu-inferior {
+    background-color: #f5f3f3;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    height: 60px;
+    margin-top: 50px;
+    width: 430px;
+}
+
+.menu-inferior img {
+    display: inline;
+    height: 35px;
+    margin-left: 38px;
+    margin-bottom: -30px;
+}
